@@ -1,0 +1,11 @@
+Dictionary<Tkey, TValue> -- Stores key , value pair
+
+Dictionary<string, int> Var = new Dictionary<string, int>();
+
+var["a"] = 1000
+var["b"] = 2000
+
+Duplicate keys are not allowed but  values are .
+
+to look for a key 
+    var.ContainsKey()
