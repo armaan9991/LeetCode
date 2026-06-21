@@ -1,4 +1,4 @@
-Got it — pulled up your profile. Here's the README with the LeetCode link and your start date included:
+
 
 C# LeetCode Solutions
 LeetCode solutions and coding interview practice, written in C#.
