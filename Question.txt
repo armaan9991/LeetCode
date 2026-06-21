@@ -79,14 +79,16 @@
 #435 Non-overlapping Intervals
 #252 Meeting Rooms
 #253 Meeting Rooms II
+
+
 If you only have 2 weeks
 
 Do these 25 first:
 
 1,        (DONE)
 217,	(DONE)
-242, 
-49, 
+242,  (done)
+49, (done)
 125, 
 15, 
 121, 
