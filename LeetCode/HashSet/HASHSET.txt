@@ -1,0 +1,24 @@
+HashSet<t> is collection that stores unique Values only!
+
+HashSet<TYPE> Var_name = new HashSet<TYPE>();
+
+
+## to Add
+==> Var_name.Add(value);
+
+## To check if  Values is present or not:
+==> Var_name.Contain(Value)  -> True if present else not
+
+## to remove
+--> Var_name.Remove(Value)  removes if present   -- Bool
+
+## number of element present
+->  Var_name.Count;   -- INT
+
+## to clear everuthing  ->  Var_name.clear(); Bool
+-Fast Lookups as we can see if there any item exists, as we can look in O(1) as compared to List it takes O(n)
+- Dont store ay Dupliate, i t removes duplicates itself.
+- we cant make sure we will get same order but speed will be optimized.
+
+
+
