@@ -3,7 +3,7 @@
 C# LeetCode Solutions
 LeetCode solutions and coding interview practice, written in C#.
 
-LeetCode profile: leetcode.com/u/armaangill9991
+LeetCode profile: https://leetcode.com/u/armaangill9991/
 Each solution is an opportunity to get hands-on with core .NET data structures and patterns, including:
 
 Dictionary<TKey, TValue>, HashSet<T>, List<T>
