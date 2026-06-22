@@ -89,7 +89,7 @@ Do these 25 first:
 217,	(DONE)
 242,  (done)
 49, (done)
-125, 
+125, (done)
 15, 
 121, 
 3, 
