@@ -93,7 +93,7 @@ Do these 25 first:
 15,  (done)
 121, (DONE)
 3,    (DONE)
-20, 
+20, (Done)
 739, 
 704, 
 33, 
