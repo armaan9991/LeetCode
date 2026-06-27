@@ -94,8 +94,8 @@ Do these 25 first:
 121, (DONE)
 3,    (DONE)
 20, (Done)
-739, 
-704, 
+739, (done)
+704, (DONE)
 33, 
 206, 
 141, 

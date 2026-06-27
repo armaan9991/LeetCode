@@ -1,6 +1,7 @@
 public class Daily_temp_739
 {
-    // Monotonic Stack
+    // Monotonic Stack  // ued to find elements in array ,next greater or smaller.
+    // Stores indices instead of values..
     public int[] DailyTemperatures(int[] temp)
     {
         int n = temp.Length;
