@@ -99,7 +99,7 @@ Do these 25 first:
 33, (DONE)
 206, (DONE)
 141, (DONE)
-21, 
+21, (DONE)
 104, 
 226, 
 102, 
